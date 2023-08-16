@@ -17,7 +17,7 @@ def test_post_presence(get_token_auth):
     assert data["owner_title_name"] in name, "not found"
 
 
-def test_create_new_post(get_token_auth):
+def test_create_check_new_post(get_token_auth):
     header = {
         "X-Auth-Token": get_token_auth
     }
