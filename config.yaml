@@ -1,0 +1,8 @@
+url: "https://test-stand.gb.ru/gateway/login"
+username: "Ivan33"
+password: "102dc62c67"
+url_api: "https://test-stand.gb.ru/api/posts"
+owner_title_name: "горы"
+"title": "NewPost"
+"description": "this is test new post"
+"content": "WOW!"
